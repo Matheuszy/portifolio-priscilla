@@ -15,7 +15,7 @@ export default function CTASection() {
           transition={{ duration: 0.5 }}
           className="text-4xl md:text-6xl font-bold mb-6"
         >
-          Quem não é visto <br/>
+          Quem não vive para servir não serve para viver <br/>
           <span className="text-brand-blue">não é lembrado.</span>
         </motion.h2>
         

@@ -17,7 +17,7 @@ export default function StrategySection() {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <h2 className="text-4xl md:text-5xl font-bold text-brand-burgundy mb-6">A Solução: Neuromarketing Estratégico</h2>
+          <h2 className="text-4xl md:text-5xl font-bold text-brand-burgundy mb-6">Neuromarketing Estratégico</h2>
           <p className="text-xl max-w-3xl mx-auto opacity-80">
             Utilizo gatilhos mentais para que o cérebro do seu cliente identifique sua solução como a única possível. Conversão simplificada com <strong>esforço zero</strong>.
           </p>

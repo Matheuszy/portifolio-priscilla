@@ -5,11 +5,17 @@ import DifferentialsSection from './sections/DifferentialsSection';
 import WorkflowSection from './sections/WorkFlowSection';
 import PricingSection from './sections/PricingSection';
 import CTASection from './sections/CTASection';
+import SkillsSection from './sections/SkillsSection';
+import MethodologySection from './sections/MethodologySection';
+import CaseStudySection from './sections/CaseStudySection';
 
 export default function App() {
   return (
     <div className="bg-brand-cream min-h-screen font-sans text-brand-dark overflow-hidden">
       <AboutSection />
+      <SkillsSection />
+      <MethodologySection />
+      <CaseStudySection />
       <StrategySection />
       <DifferentialsSection />
       <WorkflowSection />
